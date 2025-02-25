@@ -9,5 +9,6 @@ public class AddClass {
 		Reporter.log("Add class Added",true);
 		Reporter.log("Add class Added",true);
 		Reporter.log("Add class Added",true);
+		Reporter.log("Add class Added",true);
 	}
 }
